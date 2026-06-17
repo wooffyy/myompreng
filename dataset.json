@@ -1,0 +1,192 @@
+{
+  "Karbo": [
+    {
+      "nama": "Nasi Putih",
+      "porsi_gram": 200,
+      "harga_per_porsi": 1500,
+      "kalori": 260,
+      "protein_g": 4.8,
+      "karbo_g": 57.2,
+      "lemak_g": 0.4
+    },
+    {
+      "nama": "Nasi Merah",
+      "porsi_gram": 200,
+      "harga_per_porsi": 2500,
+      "kalori": 220,
+      "protein_g": 4.6,
+      "karbo_g": 47.6,
+      "lemak_g": 0.8
+    },
+    {
+      "nama": "Kentang Rebus",
+      "porsi_gram": 150,
+      "harga_per_porsi": 1800,
+      "kalori": 122,
+      "protein_g": 2.5,
+      "karbo_g": 27.9,
+      "lemak_g": 0.1
+    },
+    {
+      "nama": "Nasi Kuning",
+      "porsi_gram": 200,
+      "harga_per_porsi": 2000,
+      "kalori": 300,
+      "protein_g": 5.4,
+      "karbo_g": 56.0,
+      "lemak_g": 3.5
+    }
+  ],
+  "ProteinH": [
+    {
+      "nama": "Ayam Goreng",
+      "porsi_gram": 40,
+      "harga_per_porsi": 3200,
+      "kalori": 149,
+      "protein_g": 13.5,
+      "karbo_g": 0.0,
+      "lemak_g": 10.5
+    },
+    {
+      "nama": "Telur Rebus",
+      "porsi_gram": 55,
+      "harga_per_porsi": 2000,
+      "kalori": 77,
+      "protein_g": 6.3,
+      "karbo_g": 0.6,
+      "lemak_g": 5.3
+    },
+    {
+      "nama": "Daging Sapi Teriyaki",
+      "porsi_gram": 40,
+      "harga_per_porsi": 8500,
+      "kalori": 130,
+      "protein_g": 11.2,
+      "karbo_g": 3.5,
+      "lemak_g": 8.0
+    },
+    {
+      "nama": "Ikan Nila Goreng",
+      "porsi_gram": 40,
+      "harga_per_porsi": 2800,
+      "kalori": 96,
+      "protein_g": 13.9,
+      "karbo_g": 0.0,
+      "lemak_g": 4.6
+    }
+  ],
+  "ProteinN": [
+    {
+      "nama": "Tempe Goreng",
+      "porsi_gram": 50,
+      "harga_per_porsi": 800,
+      "kalori": 113,
+      "protein_g": 8.8,
+      "karbo_g": 6.8,
+      "lemak_g": 6.0
+    },
+    {
+      "nama": "Tahu Goreng",
+      "porsi_gram": 60,
+      "harga_per_porsi": 600,
+      "kalori": 82,
+      "protein_g": 6.8,
+      "karbo_g": 1.8,
+      "lemak_g": 5.5
+    },
+    {
+      "nama": "Tempe Bacem",
+      "porsi_gram": 50,
+      "harga_per_porsi": 1000,
+      "kalori": 120,
+      "protein_g": 8.5,
+      "karbo_g": 9.5,
+      "lemak_g": 4.5
+    },
+    {
+      "nama": "Edamame Rebus",
+      "porsi_gram": 60,
+      "harga_per_porsi": 1800,
+      "kalori": 80,
+      "protein_g": 8.0,
+      "karbo_g": 6.0,
+      "lemak_g": 3.5
+    }
+  ],
+  "Sayur": [
+    {
+      "nama": "Tumis Buncis",
+      "porsi_gram": 75,
+      "harga_per_porsi": 1200,
+      "kalori": 35,
+      "protein_g": 1.8,
+      "karbo_g": 6.5,
+      "lemak_g": 0.9
+    },
+    {
+      "nama": "Capcay",
+      "porsi_gram": 100,
+      "harga_per_porsi": 2000,
+      "kalori": 45,
+      "protein_g": 2.5,
+      "karbo_g": 6.8,
+      "lemak_g": 1.2
+    },
+    {
+      "nama": "Tumis Kangkung",
+      "porsi_gram": 75,
+      "harga_per_porsi": 1000,
+      "kalori": 30,
+      "protein_g": 2.2,
+      "karbo_g": 3.6,
+      "lemak_g": 0.9
+    },
+    {
+      "nama": "Tumis Kacang Panjang",
+      "porsi_gram": 75,
+      "harga_per_porsi": 1000,
+      "kalori": 38,
+      "protein_g": 2.0,
+      "karbo_g": 7.2,
+      "lemak_g": 0.7
+    }
+  ],
+  "Buah": [
+    {
+      "nama": "Pisang Ambon",
+      "porsi_gram": 100,
+      "harga_per_porsi": 1500,
+      "kalori": 99,
+      "protein_g": 1.2,
+      "karbo_g": 25.8,
+      "lemak_g": 0.2
+    },
+    {
+      "nama": "Pepaya",
+      "porsi_gram": 150,
+      "harga_per_porsi": 1000,
+      "kalori": 60,
+      "protein_g": 0.9,
+      "karbo_g": 15.0,
+      "lemak_g": 0.1
+    },
+    {
+      "nama": "Jeruk",
+      "porsi_gram": 100,
+      "harga_per_porsi": 2000,
+      "kalori": 45,
+      "protein_g": 0.9,
+      "karbo_g": 11.2,
+      "lemak_g": 0.2
+    },
+    {
+      "nama": "Semangka",
+      "porsi_gram": 200,
+      "harga_per_porsi": 1500,
+      "kalori": 60,
+      "protein_g": 1.2,
+      "karbo_g": 15.2,
+      "lemak_g": 0.2
+    }
+  ]
+}
