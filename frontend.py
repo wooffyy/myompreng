@@ -52,7 +52,7 @@ class MenuOptimizerApp(tk.Tk):
         self.branches_pruned_value = ttk.Label(stats_frame, text="-")
         self.branches_pruned_value.grid(row=1, column=1, sticky="e", pady=4)
 
-        ttk.Label(stats_frame, text="Solusi Valid:").grid(row=2, column=0, sticky="w", pady=4)
+        ttk.Label(stats_frame, text="Solusi Ditemukan (dari eksplorasi terbatas): ").grid(row=2, column=0, sticky="w", pady=4)
         self.valid_solutions_value = ttk.Label(stats_frame, text="-")
         self.valid_solutions_value.grid(row=2, column=1, sticky="e", pady=4)
 
